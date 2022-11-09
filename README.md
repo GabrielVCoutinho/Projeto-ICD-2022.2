@@ -7,3 +7,5 @@ Pergutnas:
   1) Qual é a seleção com os jogadores com melhores estatísticas?
   2) Quais são os atacantes com melhores eficiências de chute ao gol?
   3) Qual é a relação desarme falta dos jogadores?
+
+DataSet: https://www.kaggle.com/datasets/mateusdesousamartins/world-cup-2022-national-teams-data-set
