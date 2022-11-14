@@ -8,4 +8,4 @@ Pergutnas:
   2) Quais são os atacantes com melhores eficiências de chute ao gol?
   3) Qual é a relação desarme falta dos jogadores?
 
-DataSet: https://www.kaggle.com/datasets/mateusdesousamartins/world-cup-2022-national-teams-data-set
+DataSet: https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league?select=key_stats.csv
